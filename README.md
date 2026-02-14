@@ -1,0 +1,1 @@
+# solarscale-ai-ecommerce-demo
